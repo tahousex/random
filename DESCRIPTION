@@ -1,0 +1,10 @@
+Package: pfStat
+Type: Package
+Title: Personal Finance Statistics
+Version: 0.1.0
+Author: Tyler House
+Maintainer: Tyler House <tahouse@usf.edu>
+Description:This package is a personal finance function suite for users to make basic estimations and calculations about different personal financial metrics.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
